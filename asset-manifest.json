@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/momsprint/static/css/main.807b0c72.css",
-    "main.js": "/momsprint/static/js/main.dae44bb5.js",
+    "main.js": "/momsprint/static/js/main.fce579e4.js",
     "static/js/488.ca357709.chunk.js": "/momsprint/static/js/488.ca357709.chunk.js",
     "static/media/template.png": "/momsprint/static/media/template.f995bfacf2d186d9709a.png",
     "index.html": "/momsprint/index.html",
     "main.807b0c72.css.map": "/momsprint/static/css/main.807b0c72.css.map",
-    "main.dae44bb5.js.map": "/momsprint/static/js/main.dae44bb5.js.map",
+    "main.fce579e4.js.map": "/momsprint/static/js/main.fce579e4.js.map",
     "488.ca357709.chunk.js.map": "/momsprint/static/js/488.ca357709.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.807b0c72.css",
-    "static/js/main.dae44bb5.js"
+    "static/js/main.fce579e4.js"
   ]
 }
